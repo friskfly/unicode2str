@@ -1,0 +1,22 @@
+{
+  "name": "unicode2string",
+  "version": "0.0.2",
+  "description": "see tests",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "esprima": "^2.4.1",
+    "str2js": "^1.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
