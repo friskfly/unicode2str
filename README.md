@@ -1,2 +1,3 @@
-# JS-escape-unicode-string-to-raw-string
-JS escape unicode string to raw string
+#unicode escape sequences to raw string
+##Usage
+see tests
