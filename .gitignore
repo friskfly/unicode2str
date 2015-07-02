@@ -14,6 +14,7 @@ results
 npm-debug.log
 node_modules
 coverage.html
+coverage
 dump.rdb
 t.js
 .DS_Store
