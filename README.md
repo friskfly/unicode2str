@@ -1,8 +1,7 @@
-##Usage
-see tests
-
 [![build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
+##Usage
+see tests
 
 [travis-image]: https://img.shields.io/travis/friskfly/unicode2str/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/friskfly/unicode2str
