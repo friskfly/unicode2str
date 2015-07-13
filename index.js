@@ -2,9 +2,9 @@
 var esprima = require('esprima')
 var str2js = require('str2js')
 
-module.exports = removeTrailingComma
+module.exports = replace
 
-function removeTrailingComma(source) {
+function replace(source) {
   var syntax = esprima.parse(source, {
     tokens: true,
     range: true,
